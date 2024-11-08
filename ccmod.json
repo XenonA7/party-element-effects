@@ -1,6 +1,6 @@
 {
 	"id": "party-element-effects",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"title": {
 		"en_US": "Party Element Effects",
 		"de_DE": "Party Element Effects",
@@ -21,7 +21,7 @@
 	},
 	"repository": "https://github.com/XenonA7/cc-party-element-effects",
 	"tags": ["cosmetic", "party member"],
-	"authors": "XenonA7",
+	"authors": ["XenonA7", "Azure Lazuline"],
 	"icons": {
    	 	"24": "icon.png"
   	},
